@@ -1,5 +1,8 @@
 # Ella's new diet and feeding schedule
 
+##### Table of Contents
+[Cooking instructions](#cooking-instructions)
+
 ## Cooking instructions
 1. Boil water.
 2. Add raw chicken breast into boiling water.
@@ -36,7 +39,7 @@
 | ---- | ---- | ---------- |
 | 10:30 AM | Breakfast | 1.5 tablets of **LYME MEDICATION** and 1 tablet of **KIDNEY MEDICATION** |
 | 3:00 PM | Lunch | N/A |
-|7:00PM | Dinner | 1.5 tables of **LYME MEDICATION** |
+|7:00PM | Dinner | 1.5 tablets of **LYME MEDICATION** |
 
 ### Feeding notes
 - If Ella is very hungry around lunch and dinnertime, it's okay to give the meal a bit earlier
