@@ -5,7 +5,7 @@
 2. [Cooking notes](#cooking-notes)
 3. [Meal details](#meal-details)
 4. [Medication details](#medication-details)
-5. [Feeding and medication schedule](#feeding-schedule)
+5. [Feeding and medication schedule](#feeding-and-medication-schedule)
 6. [Feeding notes](#feeding-notes)
 
 ## Cooking instructions
