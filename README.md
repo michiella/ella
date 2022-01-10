@@ -9,6 +9,7 @@
 6. [Feeding notes](#feeding-notes)
 
 ## Cooking instructions
+### Chicken
 1. Boil water.
 2. Add raw chicken breast into boiling water.
 3. Boil chicken for 15 - 20 minutes.
@@ -16,9 +17,16 @@
 5. Cut the chicken into smaller pieces.
 6. Store chicken in container and put in fridge.
 
+### Carrots
+1. Steam carrots for 8 - 10 minutes.
+2. Cut carrots in small pieces.
+3. Store carrots in container and put in fridge.
+
 ### Cooking notes
 - Generally, one small chicken breast will last one day (3 meals)
 - Recommended to cook 2 chicken breasts at a time, then store in fridge
+- Ella eats around 6 steamed baby carrots a day
+- Recommended to cook 12 at a time, then store in fridge
 
 ## Meal details
 | Ingredient | Quantity |
